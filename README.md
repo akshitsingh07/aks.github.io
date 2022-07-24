@@ -1,2 +1,1 @@
-# aks.github.io
-My Portfolio Website
+# github.io
